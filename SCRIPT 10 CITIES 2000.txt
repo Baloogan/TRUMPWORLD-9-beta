@@ -1,0 +1,56 @@
+[HEADER]
+Title=10 BIGGEST CITY 2000 
+
+[ENVIRONMENT]
+Number of Cities=10
+Your Start-up Capital=Normal 
+Random Events=Occasional 
+Game Starting Year=2000
+Retail Store Type=Many
+Technology Disruption=Yes
+Stock Market=Yes
+Alternative Stock Sim=Yes
+Inflation=On
+Inflation Strength=Normal
+Number of AI Persons=63
+Macro Economy Realism=High
+
+[CITIES]
+City=London
+Population=4990000 
+City=Rio De Janeiro
+Population=4970000 
+City=New York City
+Population=4990000 
+City=Tokyo
+Population=4980000 
+City=Shanghai
+Population=4990000 
+City=Moscow
+Population=4950000 
+City=Buenos Aires
+Population=4970000 
+City=Berlin
+Population=4990000 
+City=Sydney
+Population=4980000 
+City=Paris
+Population=4980000 
+
+[COMPETITORS]
+Number of Competitors=40
+Competitor Start-up Capital=Very High
+Competitor Aggressiveness=High
+Competitor Expertise Level=Very High
+Show Competitor Trade Secrets=Yes
+AI Friendly Merger=On
+Competence of Local Competitors=High 
+Retail Focused Companies=6
+Stock Focused Companies=1
+Real Estate Focused Companies=2
+Tech Focused Companies=8
+Media Focused Companies=1
+Diversified Companies=8
+
+[SPECIAL RULES]
+Tech Cost Modifier=1000

@@ -1,0 +1,7 @@
+Copy the file Realworld.res, RealWorld.txt and Realworld.res in mod folder, you create the folder if not exist.
+When you start the game select mod Realworld.
+The 2 scripts 10 cities you put in script folder.
+If you want start in 1900 with most of products not yet discover you select it, otherwise if you want all product already know, you select 2000.
+Enjoy!
+
+Piermario
