@@ -1,50 +1,50 @@
 [HEADER]
-Title=10 BIGGEST CITY 1900 
+Title=Trumpworld 1900
 
 [ENVIRONMENT]
 Number of Cities=10
-Your Start-up Capital=Normal 
-Random Events=Occasional 
+Your Start-up Capital=Very High
+Random Events=Never
 Game Starting Year=1900
 Retail Store Type=Many
 Technology Disruption=Yes
 Stock Market=Yes
 Alternative Stock Sim=Yes
-Inflation=On
+Inflation=Inverse
 Inflation Strength=Normal
 Number of AI Persons=63
 Macro Economy Realism=High
 
 [CITIES]
-City=London
+City=Seattle
 Population=4990000 
-City=Rio De Janeiro
+City=San Francisco
 Population=4970000 
-City=New York City
+City=Vancouver
 Population=4990000 
-City=Tokyo
+City=Las Vegas
 Population=4980000 
-City=Shanghai
+City=Portland
 Population=4990000 
-City=Moscow
+City=Los Angeles
 Population=4950000 
-City=Buenos Aires
+City=Phoenix
 Population=4970000 
-City=Berlin
+City=Houston
 Population=4990000 
-City=Sydney
+City=Dallas
 Population=4980000 
-City=Paris
+City=Chicago
 Population=4980000 
 
 [COMPETITORS]
 Number of Competitors=40
 Competitor Start-up Capital=Very High
-Competitor Aggressiveness=High
-Competitor Expertise Level=Very High
+Competitor Aggressiveness=Very High
+Competitor Expertise Level=High
 Show Competitor Trade Secrets=Yes
-AI Friendly Merger=On
-Competence of Local Competitors=High 
+AI Friendly Merger=Off
+Competence of Local Competitors=Very Low 
 Retail Focused Companies=6
 Stock Focused Companies=1
 Real Estate Focused Companies=2
@@ -54,3 +54,19 @@ Diversified Companies=8
 
 [SPECIAL RULES]
 Tech Cost Modifier=1000
+
+CEO Salary Modifier=20
+COO Salary Modifier=20
+CTO Salary Modifier=20
+CMO Salary Modifier=20
+
+[IMPORTS]
+
+Consumer Goods Seaports=0
+
+Industrial Goods Seaports=0
+
+Constant Import Supply=No
+
+Import Quality=Low
+
