@@ -62,9 +62,9 @@ CMO Salary Modifier=20
 
 [IMPORTS]
 
-Consumer Goods Seaports=0
+Consumer Goods Seaports=4
 
-Industrial Goods Seaports=0
+Industrial Goods Seaports=4
 
 Constant Import Supply=No
 
