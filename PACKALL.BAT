@@ -66,4 +66,4 @@ cd ..
 call PACK.BAT
 
 cd ..\..
-LibResDir FileList.txt CAPMOD.RES
+LibResDir FileList.txt TRUMPWORLD.RES

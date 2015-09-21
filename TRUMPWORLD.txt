@@ -1,0 +1,7 @@
+[MOD]
+
+Title=Trump World
+
+Description=This is a big mod for Capitalism lab to add more realism. Plus Trump. 
+
+Author=Piermario - Italy
